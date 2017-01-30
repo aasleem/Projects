@@ -1,0 +1,6 @@
+Read input.txt A
+Read input2.txt B
+Read input3.txt C
+Union A B A
+Intersection A C C
+Print C Forward
